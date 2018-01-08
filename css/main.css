@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.cat {
+  background-image: url("../assets/images/img/kitten-medium.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 300px;
+  height: 600px;
+}
+.container {
+  background-attachment: fixed;
+  background-image: url("../assets/images/img/sunny-day.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: auto;
+  max-width: 1200;
+  margin: 0 auto; //centra cosas
+  overflow: auto;
+  width: 100%;
+}
